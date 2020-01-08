@@ -59,11 +59,6 @@ FHitResult UPlayerHand::LineTrace()
 			ActorHit->SetOwner(GetOwner());
 			ActorHit->SetActorRelativeLocation(HandLocation, false, NULL, ETeleportType(0));
 		}
-		while (Holding) 
-		{
-			
-			ActorHit->SetActorRelativeLocation(HandLocation, false, NULL, ETeleportType(0));
-		}
 	}
 
 	return Hit;

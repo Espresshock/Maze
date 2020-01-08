@@ -29,12 +29,6 @@ public:
 	// public variables
 	float Reach = 200.0f;
 
-	UPROPERTY(EditAnywhere)
-	bool Interact;
-
-	UPROPERTY(EditAnywhere)
-	bool Holding;
-
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 	FHitResult LineTrace();

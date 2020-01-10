@@ -5,7 +5,9 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Engine/World.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
 #include "Components/ActorComponent.h"
+#include "Components/InputComponent.h"
 #include "PlayerHand.generated.h"
 
 
@@ -24,14 +26,19 @@ protected:
 
 private:
 	
+	UInputComponent* InputComponent = nullptr;
+	UPhysicsHandleComponent* PhysicsHandle = nullptr;
 
 public:	
 	// public variables
-	float Reach = 200.0f;
+	float Reach = 150.0f;
 
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-	FHitResult LineTrace();
 
-		
+	FHitResult LineTrace();
+	void Grab();
+	void Release();
+	void InitializeComponents();
+	FVector LineTraceEnd();
 };

@@ -13,23 +13,25 @@ UPlayerHand::UPlayerHand()
 	// ...
 }
 
-
 // Called when the game starts
 void UPlayerHand::BeginPlay()
 {
 	Super::BeginPlay();
-
+	InitializeComponents();
 	// ...
 	
 }
-
 
 // Called every frame
 void UPlayerHand::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
 	// Testing linetrace
-	LineTrace();
+	if (PhysicsHandle->GrabbedComponent)
+	{
+		PhysicsHandle->SetTargetLocation(LineTraceEnd());
+	}
+
 }
 
 FHitResult UPlayerHand::LineTrace()
@@ -38,28 +40,69 @@ FHitResult UPlayerHand::LineTrace()
 	FRotator PlayerRotation;
 	GetOwner()->GetActorEyesViewPoint(PlayerLocation, PlayerRotation);
 
-	FVector LineTraceEnd = PlayerLocation + PlayerRotation.Vector() * Reach;
 	FHitResult Hit;
-
 	FCollisionQueryParams Trace(FName(TEXT("")), false, GetOwner());
-	FCollisionResponseContainer Container;
-
 	
-	GetWorld()->LineTraceSingleByObjectType(Hit, PlayerLocation, LineTraceEnd, ECC_PhysicsBody, Trace);
+	GetWorld()->LineTraceSingleByObjectType(Hit, PlayerLocation, LineTraceEnd(), ECC_PhysicsBody, Trace);
 	AActor* ActorHit = Hit.GetActor();
 	if (ActorHit)
 	{
-		FVector HandLocation(50.0f, 50.0f, 50.0f);
-
-		HandLocation += PlayerLocation;
-
 		UE_LOG(LogTemp, Warning, TEXT("The Following Actor Was Hit: %s"), *(ActorHit->GetName()));
-		if (true)
-		{
-			ActorHit->SetOwner(GetOwner());
-			ActorHit->SetActorRelativeLocation(HandLocation, false, NULL, ETeleportType(0));
-		}
+	}
+	return Hit;
+}
+
+void UPlayerHand::Grab()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grab is Activated"));
+	auto HitResult = LineTrace();
+	auto ComponentToGrab = HitResult.GetComponent();
+	auto ActorHit = HitResult.GetActor();
+	if (ActorHit)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("ActorIsHit"));
+		PhysicsHandle->GrabComponent(
+			ComponentToGrab,
+			NAME_None,
+			ActorHit->GetActorLocation(),
+			true
+		);
+	}
+	
+}
+
+void UPlayerHand::Release()
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grab is Released"));
+	PhysicsHandle->ReleaseComponent();
+}
+
+void UPlayerHand::InitializeComponents()
+{
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+	if (InputComponent)
+	{
+		InputComponent->BindAction("Interact", IE_Pressed, this, &UPlayerHand::Grab);
+		InputComponent->BindAction("Interact", IE_Released, this, &UPlayerHand::Release);
 	}
 
-	return Hit;
+	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	if (PhysicsHandle)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("%s PH Is Initialized"), *(PhysicsHandle->GetName()));
+	}
+
+}
+
+FVector UPlayerHand::LineTraceEnd()
+{
+	FVector PlayerLocation;
+	FRotator PlayerRotation;
+	FVector LineTraceEnd;
+	GetOwner()->GetActorEyesViewPoint(PlayerLocation, PlayerRotation);
+
+	UE_LOG(LogTemp, Warning, TEXT("The LineTraceEnd repeates: %s"), *LineTraceEnd.ToString());
+
+	return LineTraceEnd = PlayerLocation + PlayerRotation.Vector() * Reach;
+	
 }

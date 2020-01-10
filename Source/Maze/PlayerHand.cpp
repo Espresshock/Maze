@@ -31,7 +31,6 @@ void UPlayerHand::TickComponent(float DeltaTime, ELevelTick TickType, FActorComp
 	{
 		PhysicsHandle->SetTargetLocation(LineTraceEnd());
 	}
-
 }
 
 FHitResult UPlayerHand::LineTrace()
@@ -58,17 +57,18 @@ void UPlayerHand::Grab()
 	auto HitResult = LineTrace();
 	auto ComponentToGrab = HitResult.GetComponent();
 	auto ActorHit = HitResult.GetActor();
+
 	if (ActorHit)
 	{
+		UE_LOG(LogTemp, Warning, TEXT("Actor %s is at location, GrabLocation is %s"), *(ActorHit->GetName()), *(ActorHit->GetActorLocation().ToString()));
 		UE_LOG(LogTemp, Warning, TEXT("ActorIsHit"));
-		PhysicsHandle->GrabComponent(
+		PhysicsHandle->GrabComponentAtLocationWithRotation(
 			ComponentToGrab,
 			NAME_None,
 			ActorHit->GetActorLocation(),
-			true
+			ActorHit->GetActorRotation()
 		);
 	}
-	
 }
 
 void UPlayerHand::Release()
@@ -103,6 +103,6 @@ FVector UPlayerHand::LineTraceEnd()
 
 	UE_LOG(LogTemp, Warning, TEXT("The LineTraceEnd repeates: %s"), *LineTraceEnd.ToString());
 
-	return LineTraceEnd = PlayerLocation + PlayerRotation.Vector() * Reach;
+	return LineTraceEnd = PlayerLocation + (PlayerRotation.Vector() * Reach);
 	
 }

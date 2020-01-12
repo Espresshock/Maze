@@ -31,7 +31,7 @@ private:
 
 public:	
 	// public variables
-	float Reach = 150.0f;
+	float Reach = 200.0f;
 
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;

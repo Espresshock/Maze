@@ -1,0 +1,741 @@
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/MainLevel_Level.uasset" 0
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Levels/MainLevel_Level_BuiltData.uasset" 1
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/MainLevel_Level_BuiltData.uasset" 2
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 3
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideOpacityMask.uasset" 4
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 5
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Functions/MF_Fresnel_01a.uasset" 6
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_ALB.uasset" 7
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_NRM.uasset" 8
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_RMA.uasset" 9
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_SandMask_01a_M.uasset" 10
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Functions/MF_Sand_01a.uasset" 11
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01a_H.uasset" 12
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.uasset" 13
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_ALB.uasset" 14
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_H.uasset" 15
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_NRM.uasset" 16
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Fill_01a_RMA.uasset" 17
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Masters/MM_Master_Material_01a.uasset" 18
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bowl_01a_NRM.uasset" 19
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bowl_01a_RMA.uasset" 20
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bowl_01b_ALB.uasset" 21
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Bowl_01b.uasset" 22
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01b_ALB.uasset" 23
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01b_NRM.uasset" 24
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01b_RMA.uasset" 25
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01d.uasset" 26
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01c_ALB.uasset" 27
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01c_NRM.uasset" 28
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01c_RMA.uasset" 29
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01f.uasset" 30
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_SandMaterial_01a_H.uasset" 31
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_SandMaterial_01a.uasset" 32
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_SandMaterial_01b.uasset" 33
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Band_01a_ALB.uasset" 34
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Band_01a_NRM.uasset" 35
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Band_01a_RMA.uasset" 36
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Urn_05a.uasset" 37
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Masters/MM_PP_Sharpen_01a.uasset" 38
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Band_01a.uasset" 39
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Band_01a.uasset" 40
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01b_ALB.uasset" 41
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01b_NRM.uasset" 42
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01b_RMA.uasset" 43
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Bangle_01b.uasset" 44
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01b.uasset" 45
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01c.uasset" 46
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01d.uasset" 47
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01e.uasset" 48
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01f.uasset" 49
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01g.uasset" 50
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01h.uasset" 51
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01i.uasset" 52
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01j.uasset" 53
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_ALB.uasset" 54
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_NRM.uasset" 55
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bangle_01a_RMA.uasset" 56
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Bangle_01a.uasset" 57
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02b.uasset" 58
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02c.uasset" 59
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02d.uasset" 60
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02e.uasset" 61
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02f.uasset" 62
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02g.uasset" 63
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02h.uasset" 64
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02i.uasset" 65
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_02a_ALB.uasset" 66
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_02a_NRM.uasset" 67
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_02a_RMA.uasset" 68
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chalice_02a.uasset" 69
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chalice_02a.uasset" 70
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01a_ALB.uasset" 71
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01a_NRM.uasset" 72
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01a_RMA.uasset" 73
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chest_01a.uasset" 74
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01a.uasset" 75
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01b.uasset" 76
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01b_ALB.uasset" 77
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01b_NRM.uasset" 78
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_01b_RMA.uasset" 79
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chest_01b.uasset" 80
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01f.uasset" 81
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01h.uasset" 82
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_02a_ALB.uasset" 83
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_02a_NRM.uasset" 84
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chest_02a_RMA.uasset" 85
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chest_02a.uasset" 86
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_02a.uasset" 87
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_02b.uasset" 88
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_03a_ALB.uasset" 89
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_03a_NRM.uasset" 90
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_03a_RMA.uasset" 91
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_ClayPot_03a.uasset" 92
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03a.uasset" 93
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03b.uasset" 94
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03c.uasset" 95
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03d.uasset" 96
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03e.uasset" 97
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03g.uasset" 98
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03h.uasset" 99
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03i.uasset" 100
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03j.uasset" 101
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01a_ALB.uasset" 102
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01a_NRM.uasset" 103
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coins_01a_RMA.uasset" 104
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01a.uasset" 105
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_CoinMaterial_01a.uasset" 106
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01b.uasset" 107
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_CoinMaterial_01b.uasset" 108
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01c.uasset" 109
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_CoinMaterial_01c.uasset" 110
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01e.uasset" 111
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_CoinMaterial_01d.uasset" 112
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_02a_ALB.uasset" 113
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_02a_NRM.uasset" 114
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_02a_RMA.uasset" 115
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Coin_02a.uasset" 116
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_02a.uasset" 117
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01c.uasset" 118
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01d.uasset" 119
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01e.uasset" 120
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01f.uasset" 121
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01g.uasset" 122
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01h.uasset" 123
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02a.uasset" 124
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02b.uasset" 125
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02c.uasset" 126
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02d.uasset" 127
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02e.uasset" 128
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02f.uasset" 129
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02g.uasset" 130
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02h.uasset" 131
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_02i.uasset" 132
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Dagger_01a_ALB.uasset" 133
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Dagger_01a_NRM.uasset" 134
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Dagger_01a_RMA.uasset" 135
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Dagger_01a.uasset" 136
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Dagger_01b.uasset" 137
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Dagger_01c.uasset" 138
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Map_01a_ALB.uasset" 139
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Map_01a_NRM.uasset" 140
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Map_01a_RMA.uasset" 141
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Map_01a.uasset" 142
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Map_01a.uasset" 143
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Necklace_01a_ALB.uasset" 144
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Necklace_01a_NRM.uasset" 145
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Necklace_01a_RMA.uasset" 146
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Necklace_01a.uasset" 147
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Necklace_01a.uasset" 148
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Necklace_01b.uasset" 149
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01a_ALB.uasset" 150
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01a_NRM.uasset" 151
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01a_RMA.uasset" 152
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_OrnateChest_01a.uasset" 153
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_01b.uasset" 154
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_01c.uasset" 155
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_01d.uasset" 156
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01b_ALB.uasset" 157
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01b_NRM.uasset" 158
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_OrnateChest_01b_RMA.uasset" 159
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_OrnateChest_01b.uasset" 160
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_02c.uasset" 161
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_02d.uasset" 162
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_ALB.uasset" 163
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_NRM.uasset" 164
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Pearls_01a_RMA.uasset" 165
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Pearls_01a.uasset" 166
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Pearls_01a.uasset" 167
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Pearls_01b.uasset" 168
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Tileable/TX_Floortile_02a_ALB.uasset" 169
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Tileable/TX_Floortile_02a_H.uasset" 170
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Tileable/TX_Floortile_02a_NRM.uasset" 171
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Tileable/TX_Floortile_02a_RMA.uasset" 172
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Masters/MM_Floor_01a.uasset" 173
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Floor_01a.uasset" 174
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ZBackdrop_01a.uasset" 175
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Backdrop_01a_ALB.uasset" 176
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Backdrop_01a_NRM.uasset" 177
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Cloth_01a_NRM.uasset" 178
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Glass_01a_M.uasset" 179
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_LUT_01a.uasset" 180
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Microdetail_01a_M.uasset" 181
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_9.uasset" 182
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/42230af8eeb4bd64e333db502fdeec85.uasset" 183
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/42230af8eeb4bd64e333db502fdeec85_Mat.uasset" 184
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_albedo.uasset" 185
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_ao.uasset" 186
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_height.uasset" 187
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_metallic.uasset" 188
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_normal-dx.uasset" 189
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_roughness.uasset" 190
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Material.uasset" 191
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Stone_Table.uasset" 192
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/bigstock-old-egypt-hieroglyphs-carved-o-26776874.uasset" 193
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/bigstock-old-egypt-hieroglyphs-carved-o-26776874_Mat.uasset" 194
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/bigstock-old-egypt-hieroglyphs-carved-o-26776874.uasset" 195
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Pillar_material.uasset" 196
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/PillarOne_MatInst.uasset" 197
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/PillarOne_MatInst.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 199
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 200
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 201
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 202
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Pillar_Footsect.uasset" 203
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/Pillar_Footsect.uasset" 204
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Pillar_Headsect.uasset" 205
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/Pillar_Headsect.uasset" 206
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/Pillar_material.uasset" 207
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Pillar_Midsect.uasset" 208
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/Pillar_Midsect.uasset" 209
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_noise_smooth.uasset" 210
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_LightningFlick.uasset" 211
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/Light_Function/M_GoodSky_StormLightning_LightFunction.uasset" 212
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Arrow.uasset" 213
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Arrow.uasset" 214
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Pattern02.uasset" 215
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Pattern.uasset" 216
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Pentagon.uasset" 217
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Pentagon.uasset" 218
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/sparkle01.uasset" 219
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle.uasset" 220
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/StarBurst.uasset" 221
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Starburst.uasset" 222
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Windows.uasset" 223
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Window.uasset" 224
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam4.uasset" 225
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst3.uasset" 226
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst4.uasset" 227
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Wall_TStar.uasset" 228
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_1.uasset" 229
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_2.uasset" 230
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_3.uasset" 231
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_4.uasset" 232
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_5.uasset" 233
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_6.uasset" 234
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_7.uasset" 235
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/FootstepDirt_8.uasset" 236
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/MazeAmbienceDarker.uasset" 237
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/DefaultPlayerCharacterPawn_BP.uasset" 238
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/MazeGameMode_BP.uasset" 239
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_ALB.uasset" 240
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_NRM.uasset" 241
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_02a_RMA.uasset" 242
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_ClayPot_02a.uasset" 243
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_02.uasset" 244
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/Trigger_DoorOne.uasset" 245
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Beetle1.uasset" 246
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Beetle.uasset" 247
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/BeetleInstance.uasset" 248
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/HeavyRockDoor.uasset" 249
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/slabdoor_Cube.uasset" 250
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/slabdoor_Cylinder.uasset" 251
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/Door_BP.uasset" 252
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/Door.uasset" 253
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Gem1.uasset" 254
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Gem.uasset" 255
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/TriggerOrange_BP.uasset" 256
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/TriggerOne_DoorTwo_BP.uasset" 257
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Gem_001.uasset" 258
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Gem2.uasset" 259
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/TriggerBlue_BP.uasset" 260
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/TriggerTwo_DoorTwo_BP.uasset" 261
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/DoorOne/Trigger_DoorOne.uasset" 262
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 263
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 264
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 265
+"../../../Engine/Content/BasicShapes/Cone.uasset" 266
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 267
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 268
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 269
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 270
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 271
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 272
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 273
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 274
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 275
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 276
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 277
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 278
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 279
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 283
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 284
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 285
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 286
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 287
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 288
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 289
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 290
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 291
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 292
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 293
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 294
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 295
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 296
+"../../../Engine/Content/EditorResources/S_Note.uasset" 297
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 298
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 299
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 300
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 301
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 302
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 303
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 304
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 305
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 306
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 307
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 308
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 309
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 310
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 311
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 313
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 314
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 315
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 316
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 317
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 318
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 319
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 320
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 321
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 322
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 323
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 324
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 325
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 326
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 327
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 328
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 329
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 330
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 331
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 332
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 333
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 334
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 335
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 336
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 337
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 338
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 339
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 340
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 341
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 342
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 343
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 344
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 345
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 346
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 347
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 348
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 349
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 350
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 351
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 352
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 353
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 354
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 355
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 356
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 357
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 358
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 359
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 361
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 362
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 363
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 364
+"../../../Engine/Content/EngineResources/Black.uasset" 365
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 366
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 367
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 368
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 369
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 370
+"../../../Engine/Content/EngineSounds/Master.uasset" 371
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 372
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 373
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 374
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 375
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 376
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 377
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 378
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 379
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 380
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 381
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 382
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 383
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 384
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 385
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 386
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 387
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 388
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 389
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 390
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 395
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 396
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 397
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 398
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 399
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 400
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 401
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 402
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 403
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 404
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 405
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 406
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 407
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 408
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 409
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 410
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 411
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 412
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 413
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 414
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 417
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 418
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 419
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 420
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 421
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 422
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_Stars.uasset" 423
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunLight.uasset" 424
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_AllOverlayColor.uasset" 425
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_BaseCloudColor.uasset" 426
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_DomeColor.uasset" 427
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_horizon_Color.uasset" 428
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Curve/Curve_GoodSky_SunDirection_Vector.uasset" 429
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Structure/Structure_GoodSky.uasset" 430
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/DataTable/DataTable_GoodSky.uasset" 431
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/ArrowTool/T_GoodSky_SkyRing.uasset" 432
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/ArrowTool/M_GoodSky_SkyRing_.uasset" 433
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/ArrowTool/M_GoodSky_Sun_Emissive.uasset" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 435
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_SkyDomeAlpha.uasset" 436
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/Material_Function/MF_GoodSky_Time.uasset" 437
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_A.uasset" 438
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_B.uasset" 439
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_F.uasset" 440
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_sphere.uasset" 441
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/M_GoodSky_Base.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 444
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsAroundPoint.uasset" 445
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_Moon.uasset" 446
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/M_GoodSky_Moon.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 448
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 452
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 453
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 454
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 455
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat4Values.uasset" 456
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_Lightning.uasset" 457
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/M_GoodSky_Storm.uasset" 458
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_Stars.uasset" 459
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Materials/M_GoodSky_Sun_Stars.uasset" 460
+"../../../Engine/Content/BasicShapes/Plane.uasset" 461
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 462
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/ArrowTool/SM_GoodSky_StarMesh.uasset" 463
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.uasset" 464
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.uasset" 465
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.uasset" 466
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.uasset" 467
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.uasset" 468
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Mesh/SM_GoodSky_Hemisphere.uasset" 469
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Mesh/SM_GoodSky_Sphere.uasset" 470
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_C.uasset" 471
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_D.uasset" 472
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/Textures/T_GoodSky_clouds_E.uasset" 473
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Blueprint/BP_GoodSky.uasset" 474
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Source/UI/WB_GoodSky_Menu.uasset" 475
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/GoodSky/Maps/Level_GoodSky_Showcase.umap" 476
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/Door_2_BP.uasset" 477
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coal_01a_ALB.uasset" 478
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coal_01a_EMM.uasset" 479
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coal_01a_H.uasset" 480
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coal_01a_NRM.uasset" 481
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coal_01a_RMA.uasset" 482
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Coals_01a.uasset" 483
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coal_01a.uasset" 484
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Torch_01_RMA.uasset" 485
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Torch_01a_ALB.uasset" 486
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Torch_01a_NRM.uasset" 487
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Torch_01a.uasset" 488
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Torch_01a.uasset" 489
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Fire_01a_ALB.uasset" 490
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Utility/TX_Noise_01a_M.uasset" 491
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Masters/MM_Fire_01a.uasset" 492
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/VFX/P_Fire_01a.uasset" 493
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Blueprints/BP_FireCoals_01a.uasset" 494
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder.uasset" 495
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_001.uasset" 496
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_002.uasset" 497
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_003.uasset" 498
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_004.uasset" 499
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_005.uasset" 500
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_006.uasset" 501
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_007.uasset" 502
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_008.uasset" 503
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_009.uasset" 504
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_010.uasset" 505
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_011.uasset" 506
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Material_001.uasset" 507
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_012.uasset" 508
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_013.uasset" 509
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_014.uasset" 510
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_015.uasset" 511
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_016.uasset" 512
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/fence_Cylinder_017.uasset" 513
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Main/Door/Door_3_BP.uasset" 514
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/egypt-art.uasset" 515
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/egypt-art_Mat.uasset" 516
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_preview.uasset" 517
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/ornate-brass_preview_Mat.uasset" 518
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/WallPainting1.uasset" 519
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/WallPainting1_Mat.uasset" 520
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/WallPainting2.uasset" 521
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/WallPainting2_Mat.uasset" 522
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/A-wall-of-sandstone.uasset" 523
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Sandstone.uasset" 524
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/pillar-map-worn-3.uasset" 525
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/PillarWrap.uasset" 526
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/PillarWrapInstance.uasset" 527
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/SandstoneInstance.uasset" 528
+"../../../Engine/Content/BasicShapes/Cube.uasset" 529
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_01a.uasset" 530
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02a.uasset" 531
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bangle_02j.uasset" 532
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Bowl_01a_ALB.uasset" 533
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Bowl_01a.uasset" 534
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Bowl_01a.uasset" 535
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_ALB.uasset" 536
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_NRM.uasset" 537
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_01a_RMA.uasset" 538
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chalice_01.uasset" 539
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chalice_01a.uasset" 540
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_02b_ALB.uasset" 541
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Chalice_02b_RMA.uasset" 542
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Chalice_02b.uasset" 543
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chalice_02b.uasset" 544
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01c.uasset" 545
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01d.uasset" 546
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01e.uasset" 547
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_01g.uasset" 548
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_02c.uasset" 549
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Chest_02d.uasset" 550
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ChestCoins_01a.uasset" 551
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_01a_ALB.uasset" 552
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_01a_NRM.uasset" 553
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_ClayPot_01a_RMA.uasset" 554
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_ClayPot_01a.uasset" 555
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_01.uasset" 556
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_ClayPot_03f.uasset" 557
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_01a_ALB.uasset" 558
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_01a_NRM.uasset" 559
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Coin_01a_RMA.uasset" 560
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Coin_01a.uasset" 561
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_01a.uasset" 562
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01a.uasset" 563
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01b.uasset" 564
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Coin_Pile_01i.uasset" 565
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_CoinMaterial_01d_ALB.uasset" 566
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_CoinMaterial_01g.uasset" 567
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_CoinMaterial_01e.uasset" 568
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_ALB.uasset" 569
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_NRM.uasset" 570
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Crown_01a_RMA.uasset" 571
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Crown_01a.uasset" 572
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Crown_01a.uasset" 573
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Dagger_01a.uasset" 574
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_ALB.uasset" 575
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_NRM.uasset" 576
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Gems_01a_RMA.uasset" 577
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Gems_01a.uasset" 578
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Gems_01a.uasset" 579
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Gems_01b.uasset" 580
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Gems_01c.uasset" 581
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Gems_01d.uasset" 582
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_GoldBar_02a_ALB.uasset" 583
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_GoldBar_02a_NRM.uasset" 584
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_GoldBar_02a_RMA.uasset" 585
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_GoldBar_01a.uasset" 586
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_GoldBar_01a.uasset" 587
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Helmet_01a_ALB.uasset" 588
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Helmet_01a_NRM.uasset" 589
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Helmet_01a_RMA.uasset" 590
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Helmet_01a.uasset" 591
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Helmet_01a.uasset" 592
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_01a.uasset" 593
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_02a.uasset" 594
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_OrnateChest_02b.uasset" 595
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Pearls_01c.uasset" 596
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Ring_01a_ALB.uasset" 597
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Ring_01a_NRM.uasset" 598
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Ring_01a_RMA.uasset" 599
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Ring_01a.uasset" 600
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Ring_01a.uasset" 601
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Shield_01a_ALB.uasset" 602
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Shield_01a_NRM.uasset" 603
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Shield_01a_RMA.uasset" 604
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Shield_01a.uasset" 605
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Shield_01a.uasset" 606
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_01a_ALB.uasset" 607
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_01a_NRM.uasset" 608
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_01a_RMA.uasset" 609
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Statue_01a.uasset" 610
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Statue_01a.uasset" 611
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_ALB.uasset" 612
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_NRM.uasset" 613
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Statue_02a_RMA.uasset" 614
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Statue_02a.uasset" 615
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Statue_02a.uasset" 616
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Sword_01a_ALB.uasset" 617
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Sword_01a_NRM.uasset" 618
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Sword_01a_RMA.uasset" 619
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Sword_01a.uasset" 620
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Sword_01a.uasset" 621
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_01a_ALB.uasset" 622
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_01a_NRM.uasset" 623
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_01a_RMA.uasset" 624
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Urn_01a.uasset" 625
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Urn_01a.uasset" 626
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_02_ALB.uasset" 627
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_02_NRM.uasset" 628
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_02_RMA.uasset" 629
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Urn_02a.uasset" 630
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Urn_02.uasset" 631
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_04a_ALB.uasset" 632
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_04a_NRM.uasset" 633
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_Urn_04a_RMA.uasset" 634
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_Urn_04a.uasset" 635
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_Urn_04a.uasset" 636
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_WaterPot_01a_ALB.uasset" 637
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_WaterPot_01a_NRM.uasset" 638
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Textures/Unique/TX_WaterPot_01a_RMA.uasset" 639
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Materials/Instances/MI_WaterPot_01a.uasset" 640
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/AncientTreasures/Meshes/SM_WaterPot_01a.uasset" 641
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Audio/Final_Scream.uasset" 642
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Beam_Egyptian.uasset" 643
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube.uasset" 644
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_001.uasset" 645
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_002.uasset" 646
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_003.uasset" 647
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_004.uasset" 648
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_005.uasset" 649
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_006.uasset" 650
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_007.uasset" 651
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_008.uasset" 652
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_009.uasset" 653
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_010.uasset" 654
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_011.uasset" 655
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cube_012.uasset" 656
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cylinder.uasset" 657
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Doorway_Egyptian_Cylinder_001.uasset" 658
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Environment/Pedestal.uasset" 659
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Pillar/Egyptian_Pillar.uasset" 660
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Assets/Static_mesh/Egyptian_Pillar.uasset" 661
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/Levels/MainLevel_Level.umap" 662
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross01.uasset" 663
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Cross1.uasset" 664
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Cross02.uasset" 665
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Cross2.uasset" 666
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Fixture01.uasset" 667
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Future.uasset" 668
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid.uasset" 669
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Grid.uasset" 670
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid01.uasset" 671
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Grid2.uasset" 672
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Grid02.uasset" 673
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Grid3.uasset" 674
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo01.uasset" 675
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Halo.uasset" 676
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Halo02.uasset" 677
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Halo2.uasset" 678
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/jets01.uasset" 679
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Jet.uasset" 680
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Lines01.uasset" 681
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Lines.uasset" 682
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Sparkle02.uasset" 683
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Sparkle2.uasset" 684
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Bitmaps/Triangle01.uasset" 685
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Functions/Materials/Triangle.uasset" 686
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Materials/Blank.uasset" 687
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Materials/Blank2.uasset" 688
+"../../../Engine/Content/EngineMeshes/T_Mat_UnrealTech_01_D.uasset" 689
+"../../../Engine/Content/EngineMeshes/M_Mat_UnrealTech.uasset" 690
+"../../../Engine/Content/EngineMeshes/SM_MatPreviewMesh_01.uasset" 691
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/6Wing.uasset" 692
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Arrow_Star.uasset" 693
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Arrow_Up.uasset" 694
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam.uasset" 695
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam2.uasset" 696
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam3.uasset" 697
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam5.uasset" 698
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam6.uasset" 699
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam7.uasset" 700
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Beam8.uasset" 701
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Bow1.uasset" 702
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Capped1.uasset" 703
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Capped2.uasset" 704
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam1.uasset" 705
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam2.uasset" 706
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam3.uasset" 707
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam4.uasset" 708
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam5.uasset" 709
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam6.uasset" 710
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/LEDBeam7.uasset" 711
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Shattered1.uasset" 712
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Shattered2.uasset" 713
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Shattered3.uasset" 714
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Shattered4.uasset" 715
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Shattered5.uasset" 716
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/SpotLight1.uasset" 717
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/SpotLight2.uasset" 718
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spotlight3.uasset" 719
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spotlight4.uasset" 720
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spreadout1.uasset" 721
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spreadout2.uasset" 722
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spreadout3.uasset" 723
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Spreadout4.uasset" 724
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Bow.uasset" 725
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst.uasset" 726
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst2.uasset" 727
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst5.uasset" 728
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst6.uasset" 729
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst7.uasset" 730
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Star_Burst8.uasset" 731
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/VWing.uasset" 732
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/VWing2.uasset" 733
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Wall_Boomerang.uasset" 734
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/Wall_InvertedV.uasset" 735
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/XStar.uasset" 736
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Lighting/Profiles/XStar2.uasset" 737
+"../../../../../../GameDevResources/UE4 Project Folders/Maze/Content/LightProfilePack/Overview.umap" 738
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 739
+"../../../Engine/Content/Maps/Entry.umap" 740
